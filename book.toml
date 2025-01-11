@@ -1,0 +1,10 @@
+[book]
+title = "bangla-translate"
+description = "bangla-translate - Bangla Translate，支持全平台的浏览器，油猴脚本，支持数10种翻译引擎"
+src = "docs"
+
+[output.html]
+git-repository-url = "https://github.com/banglawiki/bangla-translate/"
+edit-url-template = "https://github.com/banglawiki/bangla-translate/edit/main/{path}"
+additional-css = ["custom.css"]
+theme = "theme"
